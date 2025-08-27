@@ -1,35 +1,14 @@
-🌟 **About**
+# Callie Care
 
-Callie AI Caller is an innovative solution for automated service booking designed to help:
+**Fighting loneliness and cognitive decline for millions of older adults with AI voice companions**
 
-😌 Introverts who feel uncomfortable making phone calls
+## 🎯 Mission
+Callie Care is a voice-based AI companion designed to support aging with dignity, addressing the critical challenges of loneliness and cognitive decline among older adults.
 
-♿ People with disabilities who face communication challenges
+## 🚀 Solution
+- **Friendly conversations**: Regular calls to ease loneliness
+- **Health check-ins**: Routine questions on wellbeing
+- **Cognitive exercises**: Tailored activities supporting memory & focus
+- **Early detection**: Signs of dementia and related conditions
+- **Reports**: Updates for family, caregivers and doctors
 
-⏱️ Busy professionals who value every minute of their time
-
-🛋️ Anyone who prefers convenience and delegating routine tasks
-
-Callie leverages cutting-edge artificial intelligence technology to independently call restaurants, beauty salons, medical clinics, and other establishments, communicate with staff in a natural voice, and make bookings according to your preferences.
-
-
-✨ **Features**
-
-🍽️ Restaurant table reservations
-💇 Appointments for haircuts and other beauty services
-🩺 Medical appointments scheduling
-🚗 Taxi or other transportation bookings
-🏨 Hotel reservations
-🗓️ Manage all your bookings through a convenient mobile app
-🔔 Real-time booking status notifications
-🌐 Multilingual support
-
-
-🛠️ **Technology**
-
-Ultravox — modern AI platform for voice conversation processing
-Twilio — reliable API for phone calls
-Architecture without STT-LLM-TTS — direct voice processing through a multimodal model
-Redis/Database — storage for metadata and booking results
-API Gateway — secure entry point for requests
-Call Progress Monitor — real-time monitoring of call progress and status
